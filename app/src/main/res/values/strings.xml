@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HTTP Web Services</string>
+    <string name="title_text">Web Services HTTP Request</string>
+    <string name="hint_id">Enter Post ID (e.g., 1, 2, 3)</string>
+    <string name="hint_url">Base API Endpoint URL</string>
+    <string name="btn_fetch">Fetch Data (GET)</string>
+    <string name="btn_send">Send Data (POST)</string>
+    <string name="label_response">Web Service Response:</string>
+    <string name="default_base_url">https://jsonplaceholder.typicode.com/posts/</string>
+    <string name="initial_response_hint">Enter an ID, then tap \'Fetch Data (GET)\' or \'Send Data (POST)\' to communicate with the web service.</string>
+</resources>
